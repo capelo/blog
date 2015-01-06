@@ -1,8 +1,9 @@
-== BDD implementation sample
+== BDD development sample
 Cucumber
 Rspec
 webrat
 
+Using some samples from from http://asciicasts.com/episodes/155-beginning-with-cucumber
 
 .feature
 Feature: Manage Articles
